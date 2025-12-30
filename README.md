@@ -47,9 +47,9 @@
 
 > 将 `<github-username>` 替换为你的 GitHub 用户名。
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<github-username>&show_icons=true&hide_title=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naturalgithub&show_icons=true&hide_title=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<github-username>&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naturalgithub&layout=compact)
 
 ## 快速链接
 
